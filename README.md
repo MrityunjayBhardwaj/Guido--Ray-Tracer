@@ -4,7 +4,7 @@ A Simple Ray Tracer built in CUDA which uses ![DUBD](https://github.com/JWSoh/DU
 
 ### Example Render:
 
-![]('./assets/out.jpg')
+![](assets/out.jpg)
 
-### Example Denoised Render: 
-![]('./assets/denoised_render.jpg')
+### After Denoising: 
+![](./assets/denoised_render.jpg)
